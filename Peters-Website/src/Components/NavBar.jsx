@@ -26,8 +26,10 @@ function Navbar() {
                     {isDropdownOpen && (
                         <ul className="nav-menu-dropdown">
                             <li className="nav-item">
-                                <Link to="/Resume" className="nav-links" onClick={() => setIsDropdownOpen(false)}>Page 1</Link>
-                                <Link to="/Account"> </Link>
+                                <Link to="/Resume" className="nav-links" onClick={() => setIsDropdownOpen(false)}>Resume</Link>
+                                <Link to="/Portfolio" className="nav-links" onClick={() => setIsDropdownOpen(false)}>Portfolio</Link>
+                                <Link to="/Contact" className="nav-links" onClick={() => setIsDropdownOpen(false)}>Contact</Link>
+                                <Link to="/Home" className="nav-links" onClick={() => setIsDropdownOpen(false)}>Home</Link>
                             </li>
                         </ul>
                     )}
