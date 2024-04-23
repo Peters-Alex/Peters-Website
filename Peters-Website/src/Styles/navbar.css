@@ -8,4 +8,12 @@
 .navbar-logo-img{
     height: 105px;
     width: 105px;
+    display: flex;
+}
+.menu-icon {
+    color: navy;
+    font-size: xxx-large;
+
+ 
+
 }
