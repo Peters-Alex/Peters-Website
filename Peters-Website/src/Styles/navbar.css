@@ -1,19 +1,37 @@
 .nav-navbar{
     background-color: gold;
-    margin-bottom: 100%;
-}
-.nav-navbar-container{
+    margin-bottom: ;
+    width: 93%;
+    display: flex; /* Use flexbox to align items horizontally */
+    align-items: center; /* Vertically center align items */
+    justify-content: space-between; /* Space items evenly along the main axis */
 
+}
+
+.nav-navbar-container{
+    display: flex; /* Use flexbox to align items horizontally */
+    align-items: center; /* Vertically center align items */
 }
 .navbar-logo-img{
-    height: 105px;
-    width: 105px;
+    height: 100px;
+    width: 100px;
     display: flex;
 }
-.menu-icon {
-    color: navy;
-    font-size: xxx-large;
+.navbar-logo-img2{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    
+    
+}
+.nav-links{
+    margin-right: -2.7rem; /* Add some margin between nav items */
 
- 
-
+}
+.nav-links{
+    text-decoration: none; /* Remove default underline */
+    color: black; /* Set the color of nav links */
+    font-weight: bold; /* Make the font bold */
+    font-size: larger;
+    min-inline-size: -webkit-fill-available;
 }

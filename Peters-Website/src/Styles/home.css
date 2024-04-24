@@ -1,0 +1,42 @@
+.Home {
+    background: black;
+    text-align: -webkit-center;
+    color: wheat;
+}
+
+.Homeimg{
+
+}
+.HeaderHome{
+    font-size: x-large;
+    font-weight: bolder;
+    align-items: center;
+    margin-left: 7%;
+    font-style: italic;
+    
+}
+.img1 {
+    height: 400px;
+    width: 900px;
+    margin-left: 20%;
+    
+    
+}
+.img2 {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}   
+.imgtext{
+    flex: 1;
+    padding: 0 20px;
+}
+.Pillars{
+    background-color: sienna;;
+
+}
+.homeDiv{
+    width: min-content;
+    display: inline-block;
+    margin: 5%;
+}
