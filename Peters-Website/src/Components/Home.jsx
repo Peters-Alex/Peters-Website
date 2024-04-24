@@ -40,6 +40,13 @@ function Home() {
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit maiores temporibus deleniti distinctio, veritatis est tenetur nostrum consequuntur provident! Voluptatibus excepturi consequuntur quia eveniet minima quidem facilis. Illo, laborum earum.</p>
                     )};
                 </div>
+            </section>
+            <section className="SecondPillar">
+                <div className="Message">
+                    <h1 className="Messageheader">Message</h1>
+                    <p className="Message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum aspernatur incidunt velit voluptas harum corrupti accusamus possimus sapiente amet deserunt minima, enim, fuga necessitatibus quae quia nisi. Fugit, omnis minima?</p>
+                    
+                </div>
 
             </section>
         </div>
