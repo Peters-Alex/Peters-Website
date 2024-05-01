@@ -14,7 +14,7 @@ function Navbar() {
                     <Link to="/" className="navbar-logo">
                         <img className="navbar-logo-img" src="src/Assets/vecteezy_ap-letter-circle-logo-design-with-gold-color_9751044-1.jpg" />
                     </Link>
-                    <Link to="/" className="nav-links">Home</Link>
+                    <Link to="/" className="nav-links">About Me</Link>
                     <Link to="/Resume" className="nav-links">Resume</Link> 
                     <Link to="/Portfolio" className="nav-links">Portfolio</Link> 
                     <Link to="/Contact" className="nav-links" >Contact</Link> 
