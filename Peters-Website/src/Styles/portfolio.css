@@ -1,18 +1,16 @@
 
 .Portfolio {
-    max-width: 1420px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px;
     display: flex;
     flex-wrap: wrap;
-    gap:20px;
+    gap: 0px;
     background-color: black;
     color: white;
-
 }
 .PortImg {
-    width: 100%;
-    max-width: 280px;
+    max-width: 360px;
     height: auto;
     margin-bottom: 0px;
     margin-right: 0%;
@@ -23,14 +21,15 @@
 .SystemTools{
     flex: 1;
     border: 1px;
-    box-sizing: 10px;  
+    box-sizing: 10px;
+    list-style: none;  
 }
 .softwareTools {
     display: table-column-group;
     flex-direction: column;
     flex-wrap: wrap;
     column-count: 2;
-    margin-top: 10%;
+    margin-top: 100%;
     list-style: none;
     padding: 0%;
     margin: 0%;
@@ -39,11 +38,15 @@
 .PlContainer {
     display: flex;
     flex-direction: column; 
-    align-items: flex-start;
+    /* align-items: flex-start; */
     margin-left: 10%;
     position: relative;
     right: 10%;
-
+}
+.quote2{
+    font-style: italic;
+    margin-left: 80px;
+    font-size: large;
 }
 
 .header2{
@@ -74,7 +77,6 @@
 .WorkFlow {
     width: 100%;
     height: auto;
-    
 }
 
 .wireFrameTxt{
