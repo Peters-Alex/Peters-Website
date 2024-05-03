@@ -16,7 +16,7 @@ function Home() {
             <header className="HeaderHome"> “The technology you use impresses no one. The experience you create with it is everything.” - Sean Gerety </header>
             <img className="img1" src="src/Assets/ales-nesetril-Im7lZjxeLhg-unsplash.jpg" /><br></br>
             <img className="img1x" src="src/Assets/ales-nesetril-Im7lZjxeLhg-unsplash.jpg" /><br></br>
-            <img className="img2" src="src/Assets/HeadShot.png" />
+            <img className="img2" src="src/Assets/hiking.jpg" />
             <h1 className="imgTitle1">Alex L. Peters</h1>
             <h2 className="imgTitle2">Full Stack Software Engineer</h2>
             <p className="imgtext"> The spark that ignited my passion for software development first ignited during my time as a Technical Recruiter. Exposure to the dynamic world of software development set me on a journey of exploration and discovery. The more I learned, the clearer it became that my tenacity for continuous learning and growth resonated deeply with the fundamental principles of software development.
